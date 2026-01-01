@@ -1,2 +1,3 @@
 # Beautiful-Interactive--Modern-Dashboard
-Author - Krish Raj
+This is a python project
+<br>Author - Krish Raj
